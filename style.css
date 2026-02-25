@@ -1,0 +1,22 @@
+.container{
+    margin-top: 2rem;
+}
+
+.formTop{
+    margin-top: 2rem;
+}
+
+.title{
+    font-family: 'Alex Brush', cursive;
+    font-size: 2.5rem; 
+    font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+footer{
+    margin-top: 2rem;
+    padding: 1.5rem;
+}
